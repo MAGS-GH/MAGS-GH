@@ -30,15 +30,15 @@ Jeg er tilknyttet **Mercantec**. Her kan du se noget af det vi arbejder med:
 ## GitHub-aktivitet
 
 <p align="center">
-  <img height="180em" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MAGS-GH&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="180em" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=MAGS-GH&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" />
   <img height="180em" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=MAGS-GH&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180em" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAGS-GH&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MAGS-GH&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
 </p>
 
-<sub>Statistikker bygger på offentlig GitHub-data via <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> og <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a>.</sub>
+<sub>Statistikker bygger på offentlig GitHub-data via <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> (kort via <a href="https://github-readme-stats.shion.dev">shion.dev</a>-mirror), <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a>.</sub>
 
 ---
 
