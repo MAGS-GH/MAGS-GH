@@ -12,33 +12,29 @@
 
 ---
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" rules="none" frame="void">
+<tbody>
 <tr>
-<td valign="top" width="58%">
+<td valign="top" width="50%" style="border: none; padding: 0 20px 28px 0;">
 
 ## Hej — kort om mig
 
 Jeg hedder **Mathias G. Steenberg** og går også under **MAGS**. Til daglig **underviser** jeg, og jeg bruger meget af min tid på at bygge løsninger inden for software, automation og praktisk brug af **AI**.
 
 </td>
-<td valign="middle" width="42%" align="center">
+<td valign="middle" width="50%" align="center" style="border: none; padding: 0 0 28px 20px;">
 
 <img height="170em" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=MAGS-GH&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" />
 
 </td>
 </tr>
-</table>
-
-<br/>
-
-<table>
 <tr>
-<td valign="middle" width="42%" align="center">
+<td valign="middle" width="50%" align="center" style="border: none; padding: 0 20px 28px 0;">
 
 <img height="170em" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=MAGS-GH&theme=tokyonight&hide_border=true" />
 
 </td>
-<td valign="top" width="58%">
+<td valign="top" width="50%" style="border: none; padding: 0 0 28px 20px;">
 
 ## Hvad jeg tilbyder — [mags.dk](https://mags.dk)
 
@@ -46,13 +42,8 @@ På **[mags.dk](https://mags.dk)** sælger jeg løsninger til **websites**, **au
 
 </td>
 </tr>
-</table>
-
-<br/>
-
-<table>
 <tr>
-<td valign="top" width="58%">
+<td valign="top" width="50%" style="border: none; padding: 0 20px 0 0;">
 
 ## Undervisning — Mercantec
 
@@ -62,12 +53,13 @@ Jeg er tilknyttet **Mercantec**. Her kan du se noget af det vi arbejder med:
 - **Undervisningsmateriale (Notion):** [Mercantec Wiki](https://mercantec.notion.site/9fb68009b21b47f28c759169ee734de7?v=e0125d9cf06646ac8317d5b8cb8eca8b)
 
 </td>
-<td valign="middle" width="42%" align="center">
+<td valign="middle" width="50%" align="center" style="border: none; padding: 0 0 0 20px;">
 
 <img height="170em" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MAGS-GH&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
 
 </td>
 </tr>
+</tbody>
 </table>
 
 ---
