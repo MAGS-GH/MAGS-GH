@@ -1,57 +1,91 @@
-<h1 align="center">Hej, jeg er <a href="https://www.linkedin.com/in/mathiasgs/">Mathias</a> · MAGS</h1>
+<div align="center">
 
-<p align="center">
-	<img
-		src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Underviser+%26+udvikler;Websites,+automation+%26+AI;Platforme+der+lever+i+drift"
-		alt="Typing SVG"
-	/>
-</p>
+# Hej, jeg er [Mathias](https://www.linkedin.com/in/mathiasgs/) · MAGS
 
-<p align="center">
-	<a href="https://mags.dk"><img src="https://img.shields.io/badge/mags.dk-0f172a?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
-	<a href="https://www.linkedin.com/in/mathiasgs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-	<a href="https://github.com/mercantec-GHC"><img src="https://img.shields.io/badge/Mercantec-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mercantec på GitHub" /></a>
-	<a href="https://mags.dk"><img src="https://img.shields.io/badge/Book%20en%20snak-0f172a?style=for-the-badge" alt="Book en snak" /></a>
-</p>
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Underviser+%26+udvikler;Websites,+automation+%26+AI;Platforme+der+lever+i+drift"
+  alt="Typing SVG"
+/>
 
-<p align="center">
-	<img src="https://img.shields.io/badge/Web%20%26%20platforme-TypeScript-0f172a?style=for-the-badge" alt="Web & platforme" />
-	<img src="https://img.shields.io/badge/Undervisning-Mercantec-1e3a5f?style=for-the-badge" alt="Undervisning" />
-	<img src="https://img.shields.io/badge/Drift-VPS%20%26%20automation-334155?style=for-the-badge" alt="Drift" />
-</p>
+<br />
 
-### <strong>Om mig</strong>
+[![mags.dk](https://img.shields.io/badge/mags.dk-0f172a?style=for-the-badge&logo=safari&logoColor=white)](https://mags.dk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathiasgs/)
+[![Mercantec](https://img.shields.io/badge/Mercantec-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mercantec-GHC)
+[![Book en snak](https://img.shields.io/badge/Book%20en%20snak-38BDF8?style=for-the-badge&logoColor=white)](https://mags.dk)
+
+<br />
+
+`Web & platforme` · `Undervisning` · `Drift & automation`
+
+</div>
+
+---
+
+## Om mig
 
 Jeg hedder **Mathias G. Steenberg** og går også under **MAGS**. Til daglig **underviser** jeg på Mercantec, og jeg bygger løsninger inden for software, automation og praktisk brug af **AI**.
 
-Jeg hjælper især **virksomheder** der skal have noget i drift — og **elever/hold** der skal lære at bygge det selv. Den blanding af undervisning og produktion har formet, hvordan jeg tænker software: tydelige snitflader, små leverancer og noget der faktisk kører.
+Jeg hjælper især:
 
-### <strong>Skills</strong>
+| | |
+| --- | --- |
+| **Virksomheder** | der skal have websites, platforme og automation **i drift** |
+| **Elever & hold** | der skal lære at bygge det selv — fra idé til noget der kører |
 
-**Languages:** TypeScript, Python, C#, JavaScript  
-**Frameworks:** React, Node.js, .NET / Blazor  
-**Backend:** REST APIs, PostgreSQL, OAuth 2.0 / JWT  
-**Drift:** Linux VPS, Docker, DNS / tunnel, overvågning  
-**Other:** Undervisning, systemdesign, automation, AI i praksis
+Den blanding af undervisning og produktion har formet, hvordan jeg tænker software: tydelige snitflader, små leverancer og noget der faktisk virker.
 
-### <strong>Udvalgt arbejde</strong>
+---
 
-- **[Mercantec Auth](https://auth.mercantec.tech)** — Central login til Mercantec-økosystemet (OAuth 2.0 + JWT)
-- **[GF2 Learn](https://learn.mags.dk)** — Læringsplatform til GF2 programmering med C#-playground
-- **[mags.dk](https://mags.dk)** — MAGS Solutions: websites, platforme og drift
+## Skills
 
-### <strong>Undervisning — Mercantec</strong>
+| Område | Stack |
+| --- | --- |
+| **Languages** | TypeScript · Python · C# · JavaScript |
+| **Frameworks** | React · Node.js · .NET / Blazor |
+| **Backend** | REST APIs · PostgreSQL · OAuth 2.0 / JWT |
+| **Drift** | Linux VPS · Docker · DNS / tunnel · overvågning |
+| **Andet** | Undervisning · systemdesign · automation · AI i praksis |
 
-- **GitHub:** [github.com/mercantec-GHC](https://github.com/mercantec-GHC)
-- **Notion-wiki:** [Mercantec Wiki](https://mercantec.notion.site/9fb68009b21b47f28c759169ee734de7?v=e0125d9cf06646ac8317d5b8cb8eca8b)
-- **Platforme:** [mercantec.tech](https://mercantec.tech)
+---
 
-### <strong>Klar til en snak?</strong>
+## Udvalgt arbejde
 
-På **[mags.dk](https://mags.dk)** leverer jeg websites, platforme, automation og AI — fra idé til produktion.  
-**[Book tid eller skriv via mags.dk →](https://mags.dk)**
+| Projekt | Hvad det er |
+| --- | --- |
+| **[Mercantec Auth](https://auth.mercantec.tech)** | Central login til Mercantec-økosystemet — OAuth 2.0 + JWT |
+| **[GF2 Learn](https://learn.mags.dk)** | Læringsplatform til GF2 programmering med C#-playground |
+| **[mags.dk](https://mags.dk)** | MAGS Solutions — websites, platforme og drift |
 
-### <strong>GitHub</strong>
+Flere platforme: **[mercantec.tech](https://mercantec.tech)**
+
+---
+
+## Undervisning
+
+Tilknyttet **Mercantec** — her er indgangen til materiale og platforme:
+
+| | |
+| --- | --- |
+| **GitHub** | [mercantec-GHC](https://github.com/mercantec-GHC) |
+| **Notion** | [Mercantec Wiki](https://mercantec.notion.site/9fb68009b21b47f28c759169ee734de7?v=e0125d9cf06646ac8317d5b8cb8eca8b) |
+| **Platforme** | [mercantec.tech](https://mercantec.tech) |
+
+---
+
+## Kontakt
+
+På **[mags.dk](https://mags.dk)** leverer jeg websites, platforme, automation og AI — fra idé til produktion.
+
+<div align="center">
+
+[![Book en snak på mags.dk](https://img.shields.io/badge/Book%20en%20snak%20på%20mags.dk-38BDF8?style=for-the-badge)](https://mags.dk)
+
+</div>
+
+---
+
+## GitHub
 
 <p align="center">
   <img height="150em" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=MAGS-GH&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" />
@@ -63,6 +97,6 @@ På **[mags.dk](https://mags.dk)** leverer jeg websites, platforme, automation o
 
 <div align="center">
 
-**[mags.dk](https://mags.dk)** · **[LinkedIn](https://www.linkedin.com/in/mathiasgs/)**
+**[mags.dk](https://mags.dk)** · **[LinkedIn](https://www.linkedin.com/in/mathiasgs/)** · **[mercantec.tech](https://mercantec.tech)**
 
 </div>
