@@ -88,7 +88,6 @@ På **[mags.dk](https://mags.dk)** leverer jeg websites, platforme, automation o
 ## GitHub
 
 <p align="center">
-  <img height="150em" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=MAGS-GH&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" />
   <img height="150em" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MAGS-GH&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&hide=HTML&cache_seconds=86400" />
   <img height="150em" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=MAGS-GH&theme=tokyonight&hide_border=true" />
 </p>
