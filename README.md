@@ -1,62 +1,57 @@
-<div align="center">
+<h1 align="center">Hej, jeg er <a href="https://www.linkedin.com/in/mathiasgs/">Mathias</a> · MAGS</h1>
 
-# Mathias G. Steenberg · MAGS
+<p align="center">
+	<img
+		src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Underviser+%26+udvikler;Websites,+automation+%26+AI;Platforme+der+lever+i+drift"
+		alt="Typing SVG"
+	/>
+</p>
 
-**Underviser · Udvikler · Websites, automation & AI**
+<p align="center">
+	<a href="https://mags.dk"><img src="https://img.shields.io/badge/mags.dk-0f172a?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
+	<a href="https://www.linkedin.com/in/mathiasgs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+	<a href="https://github.com/mercantec-GHC"><img src="https://img.shields.io/badge/Mercantec-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mercantec på GitHub" /></a>
+	<a href="https://mags.dk"><img src="https://img.shields.io/badge/Book%20en%20snak-0f172a?style=for-the-badge" alt="Book en snak" /></a>
+</p>
 
-[![Website](https://img.shields.io/badge/mags.dk-0f172a?style=for-the-badge&logo=safari&logoColor=white)](https://mags.dk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathiasgs/)
-[![Mercantec på GitHub](https://img.shields.io/badge/Mercantec-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mercantec-GHC)
-[![Book en snak](https://img.shields.io/badge/Book%20en%20snak-0f172a?style=for-the-badge)](https://mags.dk)
+<p align="center">
+	<img src="https://img.shields.io/badge/Web%20%26%20platforme-TypeScript-0f172a?style=for-the-badge" alt="Web & platforme" />
+	<img src="https://img.shields.io/badge/Undervisning-Mercantec-1e3a5f?style=for-the-badge" alt="Undervisning" />
+	<img src="https://img.shields.io/badge/Drift-VPS%20%26%20automation-334155?style=for-the-badge" alt="Drift" />
+</p>
 
-</div>
+### <strong>Om mig</strong>
 
----
+Jeg hedder **Mathias G. Steenberg** og går også under **MAGS**. Til daglig **underviser** jeg på Mercantec, og jeg bygger løsninger inden for software, automation og praktisk brug af **AI**.
 
-## Hej — kort om mig
+Jeg hjælper især **virksomheder** der skal have noget i drift — og **elever/hold** der skal lære at bygge det selv. Den blanding af undervisning og produktion har formet, hvordan jeg tænker software: tydelige snitflader, små leverancer og noget der faktisk kører.
 
-Jeg hedder **Mathias G. Steenberg** og går også under **MAGS**. Til daglig **underviser** jeg, og jeg bygger løsninger inden for software, automation og praktisk brug af **AI**.
+### <strong>Skills</strong>
 
-Jeg hjælper især **virksomheder** der skal have noget i drift — og **elever/hold** der skal lære at bygge det selv.
+**Languages:** TypeScript, Python, C#, JavaScript  
+**Frameworks:** React, Node.js, .NET / Blazor  
+**Backend:** REST APIs, PostgreSQL, OAuth 2.0 / JWT  
+**Drift:** Linux VPS, Docker, DNS / tunnel, overvågning  
+**Other:** Undervisning, systemdesign, automation, AI i praksis
 
----
+### <strong>Udvalgt arbejde</strong>
 
-## Stack
+- **[Mercantec Auth](https://auth.mercantec.tech)** — Central login til Mercantec-økosystemet (OAuth 2.0 + JWT)
+- **[GF2 Learn](https://learn.mags.dk)** — Læringsplatform til GF2 programmering med C#-playground
+- **[mags.dk](https://mags.dk)** — MAGS Solutions: websites, platforme og drift
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux%20%2F%20VPS-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## Udvalgt arbejde
-
-**[Mercantec Auth](https://auth.mercantec.tech)** · **[GF2 Learn](https://learn.mags.dk)** · **[mags.dk](https://mags.dk)**
-
----
-
-## Hvad jeg tilbyder
-
-På **[mags.dk](https://mags.dk)** leverer jeg **websites**, **platforme**, **automation** og **AI** — fra idé til noget der kører i produktion.
-
-**Klar til en uforpligtende snak?** [Book tid eller skriv via mags.dk →](https://mags.dk)
-
----
-
-## Undervisning — Mercantec
-
-Jeg er tilknyttet **Mercantec**. Her kan du se noget af det vi arbejder med:
+### <strong>Undervisning — Mercantec</strong>
 
 - **GitHub:** [github.com/mercantec-GHC](https://github.com/mercantec-GHC)
 - **Notion-wiki:** [Mercantec Wiki](https://mercantec.notion.site/9fb68009b21b47f28c759169ee734de7?v=e0125d9cf06646ac8317d5b8cb8eca8b)
+- **Platforme:** [mercantec.tech](https://mercantec.tech)
 
----
+### <strong>Klar til en snak?</strong>
 
-## GitHub
+På **[mags.dk](https://mags.dk)** leverer jeg websites, platforme, automation og AI — fra idé til produktion.  
+**[Book tid eller skriv via mags.dk →](https://mags.dk)**
+
+### <strong>GitHub</strong>
 
 <p align="center">
   <img height="150em" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=MAGS-GH&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" />
