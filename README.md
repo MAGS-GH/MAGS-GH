@@ -26,12 +26,7 @@
 
 Jeg hedder **Mathias G. Steenberg** og går også under **MAGS**. Til daglig **underviser** jeg på Mercantec, og jeg bygger løsninger inden for software, automation og praktisk brug af **AI**.
 
-Jeg hjælper især:
-
-| | |
-| --- | --- |
-| **Virksomheder** | der skal have websites, platforme og automation **i drift** |
-| **Elever & hold** | der skal lære at bygge det selv — fra idé til noget der kører |
+Jeg hjælper især **virksomheder** der skal have websites, platforme og automation i drift — og **elever & hold** der skal lære at bygge det selv, fra idé til noget der kører.
 
 Den blanding af undervisning og produktion har formet, hvordan jeg tænker software: tydelige snitflader, små leverancer og noget der faktisk virker.
 
