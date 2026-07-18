@@ -8,59 +8,65 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathiasgs/)
 [![Mercantec på GitHub](https://img.shields.io/badge/Mercantec-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mercantec-GHC)
 
+<br />
+
+[![Book en snak](https://img.shields.io/badge/Book%20en%20snak-0f172a?style=for-the-badge)](https://mags.dk)
+
 </div>
 
 ---
 
-<table border="0" cellspacing="0" cellpadding="0" width="100%" rules="none" frame="void">
-<tbody>
-<tr>
-<td valign="top" width="50%" style="border: none; padding: 0 20px 28px 0;">
-
 ## Hej — kort om mig
 
-Jeg hedder **Mathias G. Steenberg** og går også under **MAGS**. Til daglig **underviser** jeg, og jeg bruger meget af min tid på at bygge løsninger inden for software, automation og praktisk brug af **AI**.
+Jeg hedder **Mathias G. Steenberg** og går også under **MAGS**. Til daglig **underviser** jeg, og jeg bygger løsninger inden for software, automation og praktisk brug af **AI**.
 
-</td>
-<td valign="middle" width="50%" align="center" style="border: none; padding: 0 0 28px 20px;">
+Jeg hjælper især **virksomheder** der skal have noget i drift — og **elever/hold** der skal lære at bygge det selv.
 
-<img height="170em" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=MAGS-GH&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" />
+---
 
-</td>
-</tr>
-<tr>
-<td valign="middle" width="50%" align="center" style="border: none; padding: 0 20px 28px 0;">
+## Stack
 
-<img height="170em" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=MAGS-GH&theme=tokyonight&hide_border=true" />
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%20%2F%20VPS-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-</td>
-<td valign="top" width="50%" style="border: none; padding: 0 0 28px 20px;">
+---
 
-## Hvad jeg tilbyder — [mags.dk](https://mags.dk)
+## Udvalgt arbejde
 
-På **[mags.dk](https://mags.dk)** sælger jeg løsninger til **websites**, **automation** og **AI** generelt — fra idé til noget der faktisk kører i produktion. Sig endelig til, hvis du vil have en sparringspartner der både kan kode og forklare.
+- **[mags.dk](https://mags.dk)** — MAGS Solutions: platforme, webapps og drift (TypeScript-first)
+- **[Mercantec-GHC](https://github.com/mercantec-GHC)** — undervisning, repos og forløb på Mercantec
+- **[Mercantec Wiki](https://mercantec.notion.site/9fb68009b21b47f28c759169ee734de7?v=e0125d9cf06646ac8317d5b8cb8eca8b)** — undervisningsmateriale i Notion
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%" style="border: none; padding: 0 20px 0 0;">
+---
+
+## Hvad jeg tilbyder
+
+På **[mags.dk](https://mags.dk)** leverer jeg **websites**, **platforme**, **automation** og **AI** — fra idé til noget der kører i produktion.
+
+**Klar til en uforpligtende snak?** [Book tid eller skriv via mags.dk →](https://mags.dk)
+
+---
 
 ## Undervisning — Mercantec
 
 Jeg er tilknyttet **Mercantec**. Her kan du se noget af det vi arbejder med:
 
-- **GitHub (Mercantec-GHC):** [github.com/mercantec-GHC](https://github.com/mercantec-GHC)
-- **Undervisningsmateriale (Notion):** [Mercantec Wiki](https://mercantec.notion.site/9fb68009b21b47f28c759169ee734de7?v=e0125d9cf06646ac8317d5b8cb8eca8b)
+- **GitHub:** [github.com/mercantec-GHC](https://github.com/mercantec-GHC)
+- **Notion-wiki:** [Mercantec Wiki](https://mercantec.notion.site/9fb68009b21b47f28c759169ee734de7?v=e0125d9cf06646ac8317d5b8cb8eca8b)
 
-</td>
-<td valign="middle" width="50%" align="center" style="border: none; padding: 0 0 0 20px;">
+---
 
-<img height="170em" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MAGS-GH&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&hide=HTML&cache_seconds=86400" />
+## GitHub
 
-</td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+  <img height="165em" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=MAGS-GH&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" />
+  <img height="165em" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MAGS-GH&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&hide=HTML&cache_seconds=86400" />
+</p>
 
 ---
 
