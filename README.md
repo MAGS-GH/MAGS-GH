@@ -55,7 +55,7 @@ Jeg er tilknyttet **Mercantec**. Her kan du se noget af det vi arbejder med:
 </td>
 <td valign="middle" width="50%" align="center" style="border: none; padding: 0 0 0 20px;">
 
-<img height="170em" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MAGS-GH&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
+<img height="170em" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MAGS-GH&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&hide=HTML&cache_seconds=86400" />
 
 </td>
 </tr>
