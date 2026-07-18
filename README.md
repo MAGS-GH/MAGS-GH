@@ -38,9 +38,7 @@ Jeg hjælper især **virksomheder** der skal have noget i drift — og **elever/
 
 ## Udvalgt arbejde
 
-- **[mags.dk](https://mags.dk)** — MAGS Solutions: platforme, webapps og drift (TypeScript-first)
-- **[Mercantec-GHC](https://github.com/mercantec-GHC)** — undervisning, repos og forløb på Mercantec
-- **[Mercantec Wiki](https://mercantec.notion.site/9fb68009b21b47f28c759169ee734de7?v=e0125d9cf06646ac8317d5b8cb8eca8b)** — undervisningsmateriale i Notion
+**[Mercantec Auth](https://auth.mercantec.tech)** · **[GF2 Learn](https://learn.mags.dk)** · **[mags.dk](https://mags.dk)**
 
 ---
 
@@ -66,6 +64,9 @@ Jeg er tilknyttet **Mercantec**. Her kan du se noget af det vi arbejder med:
 <p align="center">
   <img height="165em" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=MAGS-GH&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" />
   <img height="165em" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MAGS-GH&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&hide=HTML&cache_seconds=86400" />
+</p>
+<p align="center">
+  <img height="140em" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=MAGS-GH&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
