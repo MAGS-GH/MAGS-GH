@@ -7,9 +7,6 @@
 [![Website](https://img.shields.io/badge/mags.dk-0f172a?style=for-the-badge&logo=safari&logoColor=white)](https://mags.dk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathiasgs/)
 [![Mercantec på GitHub](https://img.shields.io/badge/Mercantec-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mercantec-GHC)
-
-<br />
-
 [![Book en snak](https://img.shields.io/badge/Book%20en%20snak-0f172a?style=for-the-badge)](https://mags.dk)
 
 </div>
@@ -62,11 +59,9 @@ Jeg er tilknyttet **Mercantec**. Her kan du se noget af det vi arbejder med:
 ## GitHub
 
 <p align="center">
-  <img height="165em" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=MAGS-GH&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" />
-  <img height="165em" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MAGS-GH&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&hide=HTML&cache_seconds=86400" />
-</p>
-<p align="center">
-  <img height="140em" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=MAGS-GH&theme=tokyonight&hide_border=true" />
+  <img height="150em" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=MAGS-GH&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" />
+  <img height="150em" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MAGS-GH&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&hide=HTML&cache_seconds=86400" />
+  <img height="150em" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=MAGS-GH&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
